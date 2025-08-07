@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svgshare.com/i/14Jp.svg" alt="FrancaData Banner" width="100%" />
+  <img src="Peach and Olive Minimalist Professional Data Analyst LinkedIn Banner (1).png" alt="FrancaData Banner" width="100%" />
 </p>
 
 # Hi, I'm FrancaData 👋
