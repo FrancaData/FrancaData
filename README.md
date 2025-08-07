@@ -21,7 +21,7 @@ Hi! I’m Aanu Ogunmodede, a passionate data analyst who transforms raw data int
 - 🌐 **[Frontier Data Visualization](frontier - Copy.jpg)**  
   Dive into my interactive data visualization project, showcasing real-world analysis and storytelling with data.
 
-- 📁 **[Portfolio Website](https://github.com/FrancaData/portfoliotest.github.io)**  
+- 📁 **[Portfolio Website] (https://francadata.github.io/portfoliotest.github.io/)**  
   Explore my full portfolio, including case studies, dashboards, and more.
 
 ---
